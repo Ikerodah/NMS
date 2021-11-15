@@ -1,0 +1,1 @@
+<div class="bg-white h-full mx-36"></div>
